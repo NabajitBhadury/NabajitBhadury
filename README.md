@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabajitbhadury&label=Profile%20views&color=0e75b6&style=flat" alt="nabajitbhadury" /> </p>
 
-- 🔭 I’m currently working on [first_git_project](https://github.com/NabajitBhadury/fitst_git_project)
+- 🔭 I’m currently working on [Moment-Gatherer]([https://github.com/NabajitBhadury/fitst_git_project](https://github.com/NabajitBhadury/Moment-Gatherer))
 
-- 💬 Ask me about **Flutter, Cyber Security**
+- 💬 Ask me about **Flutter, Django, Python, Linux**
 
 - 📫 How to reach me **nabajitbhadury@gmail.com**
 
