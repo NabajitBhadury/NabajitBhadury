@@ -1,36 +1,87 @@
 <h1 align="center">Hi there! 👋 I'm Nabajit Bhadury</h1>
-<h3 align="center">Passionate Full Stack Developer from India</h3>
+<h3 align="center">Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=nabajitbhadury&label=Profile%20views&color=0e75b6&style=flat" alt="nabajitbhadury" />
-</p>
+  <img src="https://img.shields.io/github/followers/nabajitbhadury?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/nabajitbhadury?label=Stars&style=social" alt="stars" />
+</div>
 
-- 🔭 I’m currently working on [Moment-Gatherer](https://github.com/NabajitBhadury/Moment-Gatherer)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AD1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+%26+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+### 🚀 About Me
+
+- 🔭 I'm currently working on [Moment-Gatherer](https://github.com/NabajitBhadury/Moment-Gatherer)
+- 🌱 I'm currently learning **Cloud Technologies and DevOps**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Flutter, Django, Python, Linux**
-- 📫 How to reach me: [nabajitbhadury@gmail.com](mailto:nabajitbhadury@gmail.com)
+- 📫 Reach me at: [nabajitbhadury@gmail.com](mailto:nabajitbhadury@gmail.com)
+- ⚡ Fun fact: **I love exploring new technologies and building cool stuff!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nabajit-bhadury-5a123b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100085957776075&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/dh__eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/nabajitbhadury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+<div align="center">
+  
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabajitbhadury&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+#### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabajitbhadury&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</div>
+
+### 🤝 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/nabajit-bhadury-5a123b24a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100085957776075" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/dh__eu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/nabajitbhadury" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabajitbhadury&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabajitbhadury&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabajitbhadury&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nabajitbhadury&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nabajitbhadury/nabajitbhadury/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
