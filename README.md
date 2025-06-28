@@ -11,6 +11,42 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AD1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+%26+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
+### 🎵 Now Playing
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+### 🌍 Visitor Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nabajitbhadury/count.svg" alt="Visitor Count" />
+</div>
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nabajitbhadury&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+### 🎯 Skills & Tools
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ### 🚀 About Me
 
 - 🧠 Quick learner who loves to explore new technologies
@@ -67,12 +103,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabajitbhadury&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabajitbhadury&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Graph
