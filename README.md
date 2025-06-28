@@ -90,7 +90,7 @@
 <div align="center">
   <h3>⚡ Favorite Quote</h3>
   <blockquote>
-    <p><i>"God does not play dice with the universe."</i></p>
+    <p><i>"God does not play a dice."</i></p>
     <p>- Albert Einstein</p>
   </blockquote>
 </div>
