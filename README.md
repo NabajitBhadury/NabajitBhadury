@@ -11,14 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AD1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+%26+Django+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-### 🎵 Now Playing
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d5rsflrkql4cwigclfy2egqlnm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d5rsflrkql4cwigclfy2egqlnm&redirect=true)
-
-</div>
-
 ### 🌍 Visitor Count
 
 <div align="center">
@@ -119,9 +111,13 @@
 ---
 
 <div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d5rsflrkql4cwigclfy2egqlnm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31d5rsflrkql4cwigclfy2egqlnm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+
   <h3>⚡ Favorite Quote</h3>
   <blockquote>
-    <p><i>"God does not play a dice."</i></p>
+    <p><i>"God does not play dice with the universe."</i></p>
     <p>- Albert Einstein</p>
   </blockquote>
 </div>
