@@ -13,7 +13,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on [Moment-Gatherer](https://github.com/NabajitBhadury/Moment-Gatherer)
+- 🧠 Quick learner who loves to explore new technologies
+- 🤖 Kinda lazy, so I automate everything I can
 - 🌱 I'm currently learning **Cloud Technologies and DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Flutter, Django, Python, Linux**
@@ -77,11 +78,19 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nabajitbhadury/nabajitbhadury/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabajitbhadury/nabajitbhadury/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabajitbhadury/nabajitbhadury/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nabajitbhadury/nabajitbhadury/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <h3>⚡ Favorite Quote</h3>
+  <blockquote>
+    <p><i>"God does not play dice with the universe."</i></p>
+    <p>- Albert Einstein</p>
+  </blockquote>
 </div>
