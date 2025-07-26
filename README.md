@@ -14,7 +14,7 @@
 ### 🌍 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nabajitbhadury/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=nabajitbhadury&label=Visitors&color=blue&style=flat-square" alt="nabajitbhadury" />
 </div>
 
 ### ⚡ Recent Activity
