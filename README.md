@@ -20,7 +20,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 No Activity tracked yet
+1. 🎉 Merged PR [#1](https://github.com/PsychoAbh/Demo/pull/1) in [PsychoAbh/Demo](https://github.com/PsychoAbh/Demo)
 <!--END_SECTION:activity-->
 
 ### 🏆 Achievements
