@@ -20,7 +20,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PsychoAbh/Demo/pull/1) in [PsychoAbh/Demo](https://github.com/PsychoAbh/Demo)
+1. ❗ Opened issue [#13](https://github.com/dotnet-foundation/events/issues/13) in [dotnet-foundation/events](https://github.com/dotnet-foundation/events)
 <!--END_SECTION:activity-->
 
 ### 🏆 Achievements
